@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\CK Project\MP2_Garcia\MP2_Garcia\bin\Debug\MP2_Garcia.exe.config
+C:\Users\student\Desktop\CK Project\MP2_Garcia\MP2_Garcia\bin\Debug\MP2_Garcia.exe
+C:\Users\student\Desktop\CK Project\MP2_Garcia\MP2_Garcia\bin\Debug\MP2_Garcia.pdb
+C:\Users\student\Desktop\CK Project\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.exe
+C:\Users\student\Desktop\CK Project\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.pdb
+C:\Users\CK\Documents\ComProg\MP2_Garcia\MP2_Garcia\bin\Debug\MP2_Garcia.exe.config
+C:\Users\CK\Documents\ComProg\MP2_Garcia\MP2_Garcia\bin\Debug\MP2_Garcia.exe
+C:\Users\CK\Documents\ComProg\MP2_Garcia\MP2_Garcia\bin\Debug\MP2_Garcia.pdb
+C:\Users\CK\Documents\ComProg\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.csproj.AssemblyReference.cache
+C:\Users\CK\Documents\ComProg\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.csproj.CoreCompileInputs.cache
+C:\Users\CK\Documents\ComProg\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.exe
+C:\Users\CK\Documents\ComProg\MP2_Garcia\MP2_Garcia\obj\Debug\MP2_Garcia.pdb
